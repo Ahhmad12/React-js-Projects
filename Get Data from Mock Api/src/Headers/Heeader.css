@@ -1,0 +1,23 @@
+.headerd {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+        background-color: #474e5d;
+}
+
+.circle {
+    width: 150px;
+    height: 150px;
+    margin-top: 5%;
+}
+
+.image {
+    width: 100%;
+    height: 100%;
+
+    border-radius: 50%;
+    border-color: white;
+    border-style: solid;
+    padding: 0%;
+}

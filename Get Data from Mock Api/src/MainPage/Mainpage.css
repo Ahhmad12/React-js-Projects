@@ -1,0 +1,38 @@
+.maindiv {
+    height: 100%;
+    width: 100%;
+
+    position: fixed;
+
+
+
+
+}
+
+.headerdiv {
+    width: 100%;
+    height: 25%;
+
+
+}
+
+
+.innerdiv {
+    width: 100%;
+    height: 5%;
+    display: grid;
+    grid-template-columns: auto auto;
+
+
+
+}
+
+.l {
+    width: 100%;
+    height: 65%;
+}
+
+.r {
+    width: 100%;
+    height: 65%;
+}
